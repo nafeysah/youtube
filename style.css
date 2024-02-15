@@ -39,6 +39,9 @@ input {
     .search input{
         display: none;
     }
+    .play{
+        display: grid;
+    }
 }
 
 
